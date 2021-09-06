@@ -1,0 +1,10 @@
+D:\HD LUAN\UNICSUL\Disciplinas\Quarto Semestre\Tópicos Especiais em Desenvolvimento de Sistemas\Exercicios\ProvedorInternet\ProvedorInternet\bin\Debug\ProvedorInternet.exe.config
+D:\HD LUAN\UNICSUL\Disciplinas\Quarto Semestre\Tópicos Especiais em Desenvolvimento de Sistemas\Exercicios\ProvedorInternet\ProvedorInternet\bin\Debug\ProvedorInternet.exe
+D:\HD LUAN\UNICSUL\Disciplinas\Quarto Semestre\Tópicos Especiais em Desenvolvimento de Sistemas\Exercicios\ProvedorInternet\ProvedorInternet\bin\Debug\ProvedorInternet.pdb
+D:\HD LUAN\UNICSUL\Disciplinas\Quarto Semestre\Tópicos Especiais em Desenvolvimento de Sistemas\Exercicios\ProvedorInternet\ProvedorInternet\obj\Debug\ProvedorInternet.csprojAssemblyReference.cache
+D:\HD LUAN\UNICSUL\Disciplinas\Quarto Semestre\Tópicos Especiais em Desenvolvimento de Sistemas\Exercicios\ProvedorInternet\ProvedorInternet\obj\Debug\ProvedorInternet.Form1.resources
+D:\HD LUAN\UNICSUL\Disciplinas\Quarto Semestre\Tópicos Especiais em Desenvolvimento de Sistemas\Exercicios\ProvedorInternet\ProvedorInternet\obj\Debug\ProvedorInternet.Properties.Resources.resources
+D:\HD LUAN\UNICSUL\Disciplinas\Quarto Semestre\Tópicos Especiais em Desenvolvimento de Sistemas\Exercicios\ProvedorInternet\ProvedorInternet\obj\Debug\ProvedorInternet.csproj.GenerateResource.cache
+D:\HD LUAN\UNICSUL\Disciplinas\Quarto Semestre\Tópicos Especiais em Desenvolvimento de Sistemas\Exercicios\ProvedorInternet\ProvedorInternet\obj\Debug\ProvedorInternet.csproj.CoreCompileInputs.cache
+D:\HD LUAN\UNICSUL\Disciplinas\Quarto Semestre\Tópicos Especiais em Desenvolvimento de Sistemas\Exercicios\ProvedorInternet\ProvedorInternet\obj\Debug\ProvedorInternet.exe
+D:\HD LUAN\UNICSUL\Disciplinas\Quarto Semestre\Tópicos Especiais em Desenvolvimento de Sistemas\Exercicios\ProvedorInternet\ProvedorInternet\obj\Debug\ProvedorInternet.pdb
